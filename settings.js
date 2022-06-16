@@ -29,7 +29,7 @@ global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://www.instagram.com/invites/contact/?i=nmv65mvab5fr&utm_content=3w31aef'
-global.packname = 'Gojo-Satoru'
+global.packname = '𓀬ℱ--ᷧɌҺ--ᷧ𐔓★ℛ--ͣɈᎮ--ͧȶ❤️'
 global.author = '𓀬ℱ--ᷧɌҺ--ᷧ𐔓★ℛ--ͣɈᎮ--ͧȶ❤️'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
